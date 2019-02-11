@@ -146,4 +146,4 @@ dmypy.json
 .pyre/
 
 # Avoid upload model
-.data-00000-of-00001
+*.data-00000-of-00001
