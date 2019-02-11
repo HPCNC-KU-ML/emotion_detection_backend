@@ -1,0 +1,8 @@
+numpy 
+tensorflow
+tflearn
+opencv-python
+random
+system
+face_recognition
+
